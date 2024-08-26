@@ -1,3 +1,5 @@
+These notes are from the LinkedIn Learning Pytorch lesson taught by Terezija Semenski.
+
 # PyTorch
 - Python library designed for deep learning projects.
 - Developed by FAIR for large scale image analysis (objectification, segmentation, and classification). 
