@@ -16,6 +16,7 @@ mamba install anaconda::jupyter
 mamba install anaconda::numpy
 mamba install -c anaconda ipykernel
 mamba install -y -c conda-forge cudatoolkit
+mamba install -y -c conda-forge tensorflow python=3.9.*
 mamba install -c anaconda tensorflow-gpu keras-gpu
 python -m ipykernel install --user --name=li-tutorial
 ```
